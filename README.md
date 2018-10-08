@@ -1,6 +1,8 @@
 # animation-example
 The simple example how to make transition between Grid and List modes in RecyclerView animated. (Kotlin)
 
+![Alt Text](https://github.com/alla-dubovska/animation-example/blob/master/animation.gif)
+
 # How does it work?
 Detailed explanation was posted on Medium. You can find it here - https://medium.com/@alla.dubovska/android-recyclerview-animated-transition-between-grid-and-list-layouts-b2309e1d9f19
 
